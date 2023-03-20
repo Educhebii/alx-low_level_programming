@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-*main - Entry point
+*Main - Entry point
 *
-*return: Always 1 (Success)
+*Return: Always 1 (Success)
 */
 int main(void)
 {
