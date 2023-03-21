@@ -5,7 +5,8 @@
 #include <stdio.h>
 
 /**
-* Main - Determines if a number is positive, negative or zero.
+* Main - Entry point
+* Description -  Determines if a number is positive, negative or zero.
 *
 * Return: Always 0 (Success)
 */
